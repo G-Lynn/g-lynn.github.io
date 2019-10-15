@@ -3,6 +3,7 @@ title: "Dynamics of Homelessness in Urban America"
 collection: workingpapers
 permalink: /publication/homelessness2
 date: 2019-10-01
+pubtype: 'submitted'
 citation: 'Glynn, C., Byrne, T. H., and Culhane, D. P. (2019+). Inflection points in community-level homeless rates (submitted for review)'
 ---
 
