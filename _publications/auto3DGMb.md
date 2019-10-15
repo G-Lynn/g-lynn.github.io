@@ -8,3 +8,5 @@ citation: 'Boyer, D. M., Winchester, J. M., Glynn, C., and Puente, J. (2015). De
 ---
 
 [Download paper here](http://g-lynn.github.io/files/Boyer_et_al-2015b-The_Anatomical_Record.pdf)
+
+[Software and examples](http://www2.stat.duke.edu/~sayan/auto3dgm/index.shtml)
