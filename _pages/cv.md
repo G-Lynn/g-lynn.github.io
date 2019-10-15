@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/Glynn_CV_20191014.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+[CV](https://g-lynn.github.io/files/Glynn_CV_20191014.pdf)
