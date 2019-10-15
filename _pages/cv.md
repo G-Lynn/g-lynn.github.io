@@ -1,8 +1,0 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
----
-
-[CV](https://g-lynn.github.io/files/Glynn_CV_20191014.pdf)
