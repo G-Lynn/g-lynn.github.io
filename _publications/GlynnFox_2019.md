@@ -6,7 +6,6 @@ date: 2019-04-01
 venue: 'The Annals of Applied Statistics'
 pubtype: 'journal'
 authors: ''Glynn, C. and Fox, E. B.'
-doi:10.1214/18-AOAS1200
 ---
 
 [Download paper here](http://g-lynn.github.io/files/GlynnFox_2019.pdf)
