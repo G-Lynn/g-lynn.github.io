@@ -8,3 +8,4 @@ citation: '**Glynn, C.** and Fox, E. B. (2019).  Dynamics of homelessness in urb
 ---
 
 [Download paper here](http://g-lynn.github.io/files/GlynnFox_2019.pdf)
+[Sofware and Data](https://github.com/G-Lynn/Inflection)
