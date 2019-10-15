@@ -8,4 +8,4 @@ citation: 'Boyer, D. M., Puente, J., Gladman, J. T., Glynn, C., Mukherjee, S., Y
 ---
 
 [Download paper here](http://g-lynn.github.io/files/Boyer_et_al-2015a-The_Anatomical_Record.pdf)
-© 2019 GitHub, Inc.
+
