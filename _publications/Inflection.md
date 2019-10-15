@@ -3,7 +3,10 @@ title: "Inflection points in community-level homeless rates"
 collection: publications
 permalink: /publication/homelessness2
 date: 2019-10-01
+venue: '<b><i>(Submitted for review)</i></b>'
 pubtype: 'submitted'
+paperurl: https://g-lynn.github.io/files/GlynnByrneCulhane_2019+.pdf
+doi: 
 authors: 'Glynn, C., Byrne, T. H., and Culhane, D. P.'
 excerpt_separator: ""
 ---
