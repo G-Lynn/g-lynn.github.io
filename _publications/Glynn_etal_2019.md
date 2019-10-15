@@ -4,11 +4,13 @@ collection: publications
 permalink: /publication/DLTM
 date: 2019-03-01
 venue: 'Bayesian Analysis'
+paperurl: https://g-lynn.github.io/files/GlynnTokdarHowardBanks_2019.pdf
+doi: 10.1214/18- BA1100
 pubtype: 'journal'
 authors: 'Glynn, C., Tokdar, S. T., Howard, B., and Banks, D. L.'
 ---
 
-[Download paper here](http://g-lynn.github.io/files/GlynnTokdarHowardBanks_2019.pdf)
+[Download paper here](https://g-lynn.github.io/files/GlynnTokdarHowardBanks_2019.pdf)
 
 [Software and Data](https://github.com/G-Lynn/DLTM)
 
