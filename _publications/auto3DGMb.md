@@ -8,6 +8,7 @@ paperurl: https://g-lynn.github.io/files/Boyer_et_al-2015b-The_Anatomical_Record
 doi: 10.1002/ar.23202
 pubtype: 'journal'
 authors: 'Boyer, D. M., Winchester, J. M., Glynn, C., and Puente, J.'
+excerpt_separator: ""
 ---
 
 [Download paper here](https://g-lynn.github.io/files/Boyer_et_al-2015b-The_Anatomical_Record.pdf)
