@@ -3,7 +3,7 @@ title: "Analyzing second order stochasticity of neural spiking under stimuli-bun
 collection: publications
 permalink: /publication/DAPP
 date: 2019-10-01
-venue: '<b><i>Invited revision</i></b>'
+venue: '<b><i>(Invited revision)</i></b>'
 paperurl: 'https://g-lynn.github.io/files/GlynnTokdar_etal_2019+.pdf'
 doi: 
 pubtype: 'submitted'
