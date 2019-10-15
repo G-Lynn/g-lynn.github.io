@@ -8,3 +8,7 @@ citation: 'Glynn, C., Tokdar, S. T., Howard, B., and Banks, D. L. (2019). Bayesi
 ---
 
 [Download paper here](http://g-lynn.github.io/files/GlynnTokdarHowardBanks_2019.pdf)
+
+[Software and Data](https://github.com/G-Lynn/DLTM)
+
+[General Audience and Interactive Visualizations](http://g-lynn.github.io/DLTM/)
