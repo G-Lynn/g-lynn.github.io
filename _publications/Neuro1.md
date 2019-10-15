@@ -4,11 +4,13 @@ collection: publications
 permalink: /publication/Neuro1
 date: 2018-07-01
 venue: 'Nature Communications'
+paperurl: https://g-lynn.github.io/files/CarusoMohlGlynn_etal_2018.pdf
+doi: 10.1038/s41467-018-05121-8
 pubtype: 'journal'
 authors: 'Caruso, V. C., Mohl, J. T., Glynn, C., Lee, J., Willett, S. M., Zaman, A., Ebhira, A. F., Estrada, R., Freiwald W. A., Tokdar, S. T., and Groh, J. M.'
 ---
 
-[Download paper here](http://g-lynn.github.io/files/CarusoMohlGlynn_etal_2018.pdf)
+[Download paper here](https://g-lynn.github.io/files/CarusoMohlGlynn_etal_2018.pdf)
 
 [General audience article](https://today.duke.edu/2018/07/neurons-can-carry-more-one-signal-time)
 
