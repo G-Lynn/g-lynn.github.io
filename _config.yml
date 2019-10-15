@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Christopher Glynn"
 title_separator          : "-"
-name                     : & "Chris"
+name                     : 
 description              : &description "Academic website"
 url                      : https://g-lynn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Christopher Glynn"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   bio              : "Assistant Professor of Decision Sciences"
   location         : "Paul College of Business and Economics"
   employer         : "University of New Hampshire"
