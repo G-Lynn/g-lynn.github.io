@@ -5,7 +5,7 @@ permalink: /publication/auto3DGMb
 date: 2015-11-01
 venue: 'The Anatomical Record'
 pubtype: 'journal'
-authors:'Boyer, D. M., Winchester, J. M., Glynn, C., and Puente, J.'
+authors: 'Boyer, D. M., Winchester, J. M., Glynn, C., and Puente, J.'
 ---
 
 [Download paper here](http://g-lynn.github.io/files/Boyer_et_al-2015b-The_Anatomical_Record.pdf)
