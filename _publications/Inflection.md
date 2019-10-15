@@ -5,6 +5,7 @@ permalink: /publication/homelessness2
 date: 2019-10-01
 pubtype: 'submitted'
 authors: 'Glynn, C., Byrne, T. H., and Culhane, D. P.'
+excerpt_separator: ""
 ---
 
 [Download paper here](http://g-lynn.github.io/files/GlynnByrneCulhane_2019+.pdf)
