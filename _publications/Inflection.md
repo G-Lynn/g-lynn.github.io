@@ -1,6 +1,6 @@
 ---
-title: "Dynamics of Homelessness in Urban America"
-collection: workingpapers
+title: "Inflection points in community-level homeless rates"
+collection: publications
 permalink: /publication/homelessness2
 date: 2019-10-01
 pubtype: 'submitted'
