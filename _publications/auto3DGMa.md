@@ -5,7 +5,7 @@ permalink: /publication/auto3DGMa
 date: 2015-07-01
 venue: 'The Anatomical Record'
 paperurl: https://g-lynn.github.io/files/Boyer_et_al-2015a-The_Anatomical_Record.pdf
-doi: 10.1002/ar.23202
+doi: 10.1002/ar.23084
 pubtype: 'journal'
 authors: 'Boyer, D. M., Puente, J., Gladman, J. T., Glynn, C., Mukherjee, S., Yapuncich, G. S., and Daubechies, I.'
 ---
