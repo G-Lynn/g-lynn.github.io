@@ -11,4 +11,4 @@ citation: 'Glynn, C., Tokdar, S. T., Howard, B., and Banks, D. L. (2019). Bayesi
 
 [Software and Data](https://github.com/G-Lynn/DLTM)
 
-[General Audience and Interactive Visualizations](http://g-lynn.github.io/DLTM/)
+[General audience description and interactive visualizations](http://g-lynn.github.io/DLTM/)
