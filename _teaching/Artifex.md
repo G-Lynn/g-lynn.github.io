@@ -8,8 +8,7 @@ date: 2019-09-01
 location: "Durham, NH"
 ---
 
-The primary purpose of this course is to deliver an experiential learning opportunity in business analytics to students at Paul College, building skills required of analytics professionals.  
-The course delivery is a mix of lectures and project-based learning.  In one course period per week, lectures on modern statistical tools and practice are given.  In the second course period per week, students apply those tools to address challenges in real data provided by industrial partners.  In addition, industrial partners deliver guest lectures both in-person and remotely. In Fall 2019, students are working to automate the forecasting systems of [Peak Organice Brewing](https://www.peakbrewing.com/), a major regional brewery.             
+The primary purpose of this course is to deliver an experiential learning opportunity in business analytics to students at Paul College, building skills required of analytics professionals.  The course delivery is a mix of lectures and project-based learning.  In one course period per week, lectures on modern statistical tools and practice are given.  In the second course period per week, students apply those tools to address challenges in real data provided by industrial partners.  In addition, industrial partners deliver guest lectures both in-person and remotely. In Fall 2019, students are working to automate the forecasting systems of [Peak Organic Brewing](https://www.peakbrewing.com/), a major regional brewery.             
 
 
 Learning Objectives
