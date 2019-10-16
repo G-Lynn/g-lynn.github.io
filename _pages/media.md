@@ -5,7 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 
-### Select Coverage of Homelessness Research
+### Coverage of Homelessness Research
 * United Shades of America, Guest on episode of CNN documentary series to discuss research on homeless and housing affordability crisis in Los Angeles, Filmed August 2019. Scheduled to air in April 2020.
 
 * World Economic Forum, [This is the critical number that shows when housing breaks down](https://www.weforum.org/agenda/2019/01/here-s-a-way-of-predicting-when-homelessness-is-likely-to-rise/), Jan. 31, 2019.
