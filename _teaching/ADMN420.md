@@ -8,7 +8,7 @@ date: 2019-10-01
 location: "Durham, NH"
 ---
 
-This course explores elements of statistical inference with applications in business decision-making, focusing on three modules in exploratory data analysis, probability models, and statistical inference.  Students are expected to develop literacy in data analysis, understand key concepts such as the distinction between correlation and causality, and build linear regression models.    
+This course introduces students to data analysis with applications in business decision-making.  Fundamentals of exploratory data analysis, probability models, and statistical inference are covered.  Students are expected to develop literacy in data analysis, understand key concepts such as the distinction between correlation and causality, and build linear regression models.    
 
 
 Learning Objectives
