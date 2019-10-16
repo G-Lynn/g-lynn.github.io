@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Analysis of Dynamic Linear Topic Models"
+title: "Bayesian analysis of Dynamic Linear Topic Models"
 collection: publications
 permalink: /publication/DLTM
 date: 2019-03-01
