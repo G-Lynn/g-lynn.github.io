@@ -1,5 +1,5 @@
 ---
-title: "Dynamics of Homelessness in Urban America"
+title: "Dynamics of homelessness in urban America"
 collection: publications
 permalink: /publication/homelessness1
 date: 2019-04-01
