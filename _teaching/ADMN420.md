@@ -16,7 +16,7 @@ Learning Objectives
 Upon completion of this course, students will be able to:  
 1.  Conduct thorough exploratory data analysis with appropriate visual and numerical summaries; 
 2.  Construct probability models for business processes; and
-3.  Infer and interpret parameters in statistical models.
+3.  Estimate and interpret parameters in statistical models.
 
 [Course Syllabus](https://g-lynn.github.io/files/ADMN_420_Syllabus.pdf)
 
