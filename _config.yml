@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Glynn"
+title                    : "About"
 title_separator          : "-"
 name                     : 
 description              : &description "Academic website"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christopher Glynn"
+  name             : "Chris Glynn"
   avatar           : "bio-photo.jpg"
   bio              : "Assistant Professor"
   location         : "Durham, NH"
