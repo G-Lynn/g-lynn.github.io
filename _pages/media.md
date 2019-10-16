@@ -19,3 +19,8 @@ author_profile: true
 * Bloomberg, [The homeless crisis is getting worse in America’s richest cities](https://www.bloomberg.com/news/features/2018-11-20/the-homeless-crisis-is-getting-worse-in-america-s-richest-cities), Nov. 20, 2018.
 
 * Los Angeles Times, [A 5% rent increase would push 2,000 Angelenos into homelessness, study warns](https://www.latimes.com/local/lanow/la-me-ln-rent-increase-homelessness-20170802-story.html), Aug. 2, 2017.
+
+
+### Presentation at MIT's Sloan Sports Analytics Conference
+* [Detecting Abnormal Batting Performance in Major League Baseball](http://www.sloansportsconference.com/content/switching-dynamic-generalized-linear-model-detect-abnormal-performances-major-league-baseball/) 
+
