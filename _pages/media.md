@@ -22,5 +22,5 @@ author_profile: true
 
 
 ### MIT Sloan Sports Analytics Conference
-* Presentation on [Detecting Abnormal Batting Performance in Major League Baseball](http://www.sloansportsconference.com/content/switching-dynamic-generalized-linear-model-detect-abnormal-performances-major-league-baseball/) 
+* Presentation on [Detecting Abnormal Batting Performance in Major League Baseball](http://www.sloansportsconference.com/content/switching-dynamic-generalized-linear-model-detect-abnormal-performances-major-league-baseball/), March 3, 2017.
 
