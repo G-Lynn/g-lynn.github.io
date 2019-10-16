@@ -21,4 +21,6 @@ Upon completion of this course students will be able to:
   4.	Utilize modern analytics tools such as GitHub, R, TidyVerse, …   
   5.	Understand the practical functions and challenges of analytics organizations by interacting with industry partners.
 
+Taught Fall 2019
 
+[Course Syllabus](Artifex_Syllabus.pdf)
