@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Media"
+permalink: /media/
+author_profile: true
+---
+
 ## Media Coverage of Homelessness Research
 * United Shades of America, Guest on episode of CNN documentary series to discuss research on homeless and housing affordability crisis in Los Angeles, Filmed August 2019. Scheduled to air in April 2020.
 
