@@ -21,6 +21,6 @@ author_profile: true
 * Los Angeles Times, [A 5% rent increase would push 2,000 Angelenos into homelessness, study warns](https://www.latimes.com/local/lanow/la-me-ln-rent-increase-homelessness-20170802-story.html), Aug. 2, 2017.
 
 
-### Presentation at MIT's Sloan Sports Analytics Conference
-* [Detecting Abnormal Batting Performance in Major League Baseball](http://www.sloansportsconference.com/content/switching-dynamic-generalized-linear-model-detect-abnormal-performances-major-league-baseball/) 
+### MIT Sloan Sports Analytics Conference
+* Presentation on [Detecting Abnormal Batting Performance in Major League Baseball](http://www.sloansportsconference.com/content/switching-dynamic-generalized-linear-model-detect-abnormal-performances-major-league-baseball/) 
 
