@@ -23,4 +23,4 @@ Upon completion of this course students will be able to:
 
 Taught Fall 2019
 
-[Course Syllabus](Artifex_Syllabus.pdf)
+[Course Syllabus](https://g-lynn.github.io/files/Artifex_Syllabus.pdf)
