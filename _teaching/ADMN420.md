@@ -18,5 +18,6 @@ Upon completion of this course, students will be able to:
 2.  Construct probability models for business processes; and
 3.  Infer and interpret parameters in statistical models.
 
-[Course Syllabus](https://g-lynn.github.io/files/ADMN_420_Syllabus.docx)
+[Course Syllabus](https://g-lynn.github.io/files/ADMN_420_Syllabus.pdf)
+
 Taught in Fall 2017, Fall 2018, Fall 2019
