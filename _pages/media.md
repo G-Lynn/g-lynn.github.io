@@ -21,7 +21,7 @@ author_profile: true
 * Los Angeles Times, [A 5% rent increase would push 2,000 Angelenos into homelessness, study warns](https://www.latimes.com/local/lanow/la-me-ln-rent-increase-homelessness-20170802-story.html), Aug. 2, 2017.
 
 ### Zillow Homelessness Forum
-* Panelist at [Priced Out: How Rising Rents Impact Homelessness Across America](https://www.zillowgroup.com/thought-leadership/events/)
+* Panelist at [Priced Out: How Rising Rents Impact Homelessness Across America](https://www.zillowgroup.com/thought-leadership/events/), December 11, 2018
 
 ### MIT Sloan Sports Analytics Conference
 * Presentation on [Detecting Abnormal Batting Performance in Major League Baseball](http://www.sloansportsconference.com/content/switching-dynamic-generalized-linear-model-detect-abnormal-performances-major-league-baseball/), March 3, 2017.
