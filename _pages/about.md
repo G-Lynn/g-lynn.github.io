@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Christopher Glynn"
+title: "Chris Glynn"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
