@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Coverage of Homelessness Research
+* The Economist, [Homelessness is declining in America, but it is worsening in the country's most prosperous cities](https://www.economist.com/united-states/2019/10/17/homelessness-is-declining-in-america), Oct. 17, 2019.
+
 * United Shades of America, Guest on episode of CNN documentary series to discuss research on homeless and housing affordability crisis in Los Angeles, Filmed August 2019. Scheduled to air in April 2020.
 
 * World Economic Forum, [This is the critical number that shows when housing breaks down](https://www.weforum.org/agenda/2019/01/here-s-a-way-of-predicting-when-homelessness-is-likely-to-rise/), Jan. 31, 2019.
